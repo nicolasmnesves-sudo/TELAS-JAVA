@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-CafeComAdicional" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-CategoriaNadador" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-ComprarCarroNovo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-ConfirmacaoDeCompra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-DeAprovado" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-DeRecuperacao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-Divisibilidade10e5e2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-Divisibilidade3e7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-Divisibilidade5ou3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-EquacaoSegundoGrau" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-ImparOuPar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-ImparOuPar2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-MaiorValor3Numeros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-MetadeSemaior02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-NumPositivoNegativoNull" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-NumeroEFaixaEsperada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-OrdemDecrescente" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-PermissaoDirigir" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-QualificacaoParaVaga" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TELA-VerificarUsuario" vcs="Git" />
+  </component>
+</project>
